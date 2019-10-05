@@ -1,4 +1,4 @@
-import utilities from '../helpers/utilities';
+import utilities from '../../helpers/utilities';
 
 import './navbar.scss';
 
